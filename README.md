@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning & 🤔 I'm currently interested   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbehdrnr0202&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![dbehdrnr0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbehdrnr0202&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌱 I’m currently learning & 🤔 I'm currently interested 
+- MLOps (Machine Learing Operation - Especially, For Streaming / Batch Data)
+- AWS Cloud Service
+- CI-CD
+- Operation Research
+
+### Stacks
 [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/dbehdrnr0202)
 
@@ -30,8 +39,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 
-### Stack
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbehdrnr0202&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![dbehdrnr0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbehdrnr0202&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Notion
+[![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Programming-Notion-e60793d4c0a44bf58597c0554118ec67?pvs=4)
