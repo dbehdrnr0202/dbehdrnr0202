@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 
 ### Notion
-[![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Programming-Notion-e60793d4c0a44bf58597c0554118ec67?pvs=4)
+[![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)]([https://www.notion.so/Programming-Notion-e60793d4c0a44bf58597c0554118ec67?pvs=4](https://assorted-gas-965.notion.site/Programming-Notion-e60793d4c0a44bf58597c0554118ec67?pvs=4)https://assorted-gas-965.notion.site/Programming-Notion-e60793d4c0a44bf58597c0554118ec67?pvs=4)
