@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![dbehdrnr0202's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbehdrnr0202&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bb06001)](https://solved.ac/bb06001/)
+
 ### 🌱 I’m currently learning & 🤔 I'm currently interested 
 - MLOps (Machine Learing Operation - Especially, For Streaming / Batch Data)
 - AWS Cloud Service
